@@ -1,0 +1,15 @@
+{
+  "name": "ndms-module",
+  "version": "1.0.0",
+  "description": "NodeJS Microservice Module",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.18.0"
+  },
+  "keywords": [
+    "express",
+    "module"
+  ],
+  "author": "Riccardo Vacirca",
+  "license": "MIT"
+}
